@@ -1,0 +1,32 @@
+Phase - 1
+Features:
+
+        Add Student
+
+        View All Students
+
+        Search Student by ID
+
+        Delete Student
+
+        Update Student
+
+--------------------
+
+Data will be stored using Collections, not database.
+
+Concepts covered:
+
+        Class and Object
+
+        Encapsulation
+
+        Inheritance
+
+        Polymorphism
+
+        Abstraction
+
+        List and Map
+
+        Interface-based programming
